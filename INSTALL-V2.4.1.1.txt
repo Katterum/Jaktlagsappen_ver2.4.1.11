@@ -1,0 +1,12 @@
+KATTERUMS JAKTLAG v2.4.1.1 - KARTKONSOLIDERING
+
+1. Supabase behöver inte ändras om SETUP-OBSERVATIONS-V2.4.1.sql redan har körts.
+2. Ersätt appfilerna i GitHub med filerna i detta paket.
+3. Kontrollera att v2.4.1.1 visas.
+4. Testa Viltobservationer: exakt en karta/satellit-knapp.
+5. Testa Passtilldelning: karta/satellit-knapp ska finnas.
+6. Testa Observationsstatistik: karta/satellit-knapp ska finnas.
+7. Testa Observationer 2.0: karta/satellit-knapp ska finnas.
+8. Kontrollera att blå markgräns fortfarande syns och att molnobservationer sparas.
+
+Ändringen är avgränsad till kartlagerkontroller och versionsmarkering. Supabase-synk, användare, roller, pass och observationer är oförändrade.
